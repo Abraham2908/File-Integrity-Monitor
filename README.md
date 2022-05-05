@@ -3,7 +3,7 @@
 
 
 <h2>Descrição</h2>
-<b>Script em PowerShell com o objetivo de realizar o monitoramento da integridade de arquivos. Desmostração do pilar da integridade na segurança da informação e possibilidade de por meio de alertas, detectar comprometimento de arquivos, facilitando sua investigação.<br /> <br />Após a execução, é fornecido ao usuário a opção de gerar um novo arquivo de monitoramento ou passar a escutar(monitorar) um existente. A primeira opção, realiza um check na pasta Files e após verificar os arquivos, armazena o caminho do arquivo e gera um hash (com a utilização da função hash SHA 512). A segunda opção, passa a verificar o arquivo em execução continua, reportando mensagens para o usuário de acordo com o que foi realizado.
+<b>Script em PowerShell com o objetivo de realizar o monitoramento da integridade de arquivos. Demostração do pilar da integridade na segurança da informação e possibilidade de por meio de alertas, detectar comprometimento de arquivos, facilitando sua investigação.<br /> <br />Após a execução, é fornecido ao usuário a opção de gerar um novo arquivo de monitoramento ou passar a escutar(monitorar) um existente. A primeira opção, realiza um check na pasta Files e após verificar os arquivos, armazena o caminho do arquivo e gera um hash (com a utilização da função hash SHA 512). A segunda opção, passa a verificar o arquivo em execução continua, reportando mensagens para o usuário de acordo com o que foi realizado.
 </b>
 
 <br />
